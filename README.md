@@ -6,4 +6,4 @@ Component values are printed on the board. Minimum component size is 0805.
 
 Install switches first, then front panel. The switches are "tall". Solder in jacks to the right height after the switches are in place. Finally, you can solder in the potentiometers. 
 
-Panel files to come..
+Panel has been added now. 
