@@ -1,4 +1,9 @@
 # Mute-Mix-Pan
+
+NOTE:
+this is an outdated version of my mixer. use the new MMPV3 repository files
+
+
 5 Channel Mono Mutable Mixer with Pan output for Eurorack
 
 A simple knob controlled 5 channel mono eurorack mixer with mute switches, master volume and panning balance outputs. 
